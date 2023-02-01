@@ -1,6 +1,6 @@
 package com.demo;
 
-public class Exception {
+public class Exception extends Throwable {
 
         public static void main(String[] args) {
             int[] num = {0,1,2,3,4,5,6};
